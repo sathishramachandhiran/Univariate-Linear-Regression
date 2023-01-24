@@ -44,7 +44,8 @@ plt.show()
 
 ![univariate p](https://user-images.githubusercontent.com/120574768/214318702-e689fe36-4607-49b2-bba8-89513b935398.png)
 
-![univariate](https://user-images.githubusercontent.com/120574768/214046694-0aa8e2f1-8db8-458b-9fd2-24f3ef2f6bf6.jpg)
+![univariate](https://user-images.githubusercontent.com/120574768/214320276-e1d6bffe-5278-417a-8a47-e1b02e964edb.jpg)
+
 
 
 ## Result
